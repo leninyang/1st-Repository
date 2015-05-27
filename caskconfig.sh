@@ -8,9 +8,9 @@ brew cask install evernote
 brew cask install appdelete
 brew cask install spotify
 brew cask install scroll-reverser
-brew casks install skype
-brew casks install skitch
+brew cask install skype
+brew cask install skitch
 brew cask install kindle
 brew cask install karabiner
 brew cask install vlc
-brew casks install istat-menus
+brew cask install istat-menus
