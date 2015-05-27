@@ -14,3 +14,5 @@ brew cask install kindle
 brew cask install karabiner
 brew cask install vlc
 brew cask install istat-menus
+brew cask install slack
+brew cask install github
